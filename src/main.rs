@@ -28,7 +28,7 @@ fn main() {
 
     match &cli.command{
 
-        Commands::Add { task } => {
+        Commands::Add { task }=>{
 
         }
         Commands::List => {
